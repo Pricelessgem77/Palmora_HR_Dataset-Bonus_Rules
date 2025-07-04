@@ -1,13 +1,13 @@
 # Palmora_HR_Dataset-Bonus_Rules
-This is an additional step in the process of developing my portfolio while enrolled in Incubator Hub's Data Analysis course.I am an enthusiastic data analyst who is committed to turning unstructured data into useful insights and gripping stories. Utilizing data to solve practical business issues. 
+### This is an additional step in the process of developing my portfolio while enrolled in Incubator Hub's Data Analysis course.I am an enthusiastic data analyst who is committed to turning unstructured data into useful insights and gripping stories. Utilizing data to solve practical business issues. 
 # Palmora Group HR Analytics Case Study
 
 ## 📌 Project Overview
-This case study examines HR data for **Palmora Group**, a Nigerian manufacturing company facing allegations of gender inequality. To support data-driven HR policies, the analysis finds trends in rating, bonus distribution, gender distribution, and pay disparities.
+### This case study examines HR data for **Palmora Group**, a Nigerian manufacturing company facing allegations of gender inequality. To support data-driven HR policies, the analysis finds trends in rating, bonus distribution, gender distribution, and pay disparities.
 
 ## 🧰 Tools Used
 - **Power BI** (for dashboards & visualizations)
-- **Excel** (data cleaning)
+- **Excel** (Data cleaning and wrangling)
 - **GitHub** (portfolio hosting)
 
 ## 🗂️ Data Sources
@@ -15,7 +15,7 @@ This case study examines HR data for **Palmora Group**, a Nigerian manufacturing
 - `Bonus_Rules.xlsx` – Rules for calculating performance-based bonuses
 
 ## 🏢 Business Context
-Palmora is growing globally, but the company has been criticized by the public for gender inequality. The CHRO assigned analysts to investigate wage compliance, gender equity, and salary fairness.
+### Palmora is growing globally, but the company has been criticized by the public for gender inequality. The CHRO assigned analysts to investigate wage compliance, gender equity, and salary fairness.
 
 ## 🔍 My Approach
 1. **Data Cleaning**:
@@ -27,7 +27,7 @@ Palmora is growing globally, but the company has been criticized by the public f
    - Performance ratings by gender
    - Salary banding and minimum wage compliance
    - Gender pay gap across departments and regions
-   - Bonus allocation based on rating
+   - Bonus allocation is based on rating
 
 3. **Visualization**:
    - Designed interactive Power BI dashboards with slicers and bar charts
@@ -35,15 +35,15 @@ Palmora is growing globally, but the company has been criticized by the public f
 
 ## 📈 Key Findings
 - Females were underrepresented in leadership and high-paying positions.
-The manufacturing and sales divisions had a gender pay disparity.
+- Bonus distributions and allocations differed significantly by gender.
+- The manufacturing and sales divisions had a gender pay disparity.
 - Many employees earned less than the required minimum wage of $90,000, particularly in Region X.
-- Bonus distributions differed significantly by gender.
 
 
 ## ✅ Recommendations
-Standardize pay bands and carry out internal pay audits.
-Encourage more inclusive hiring and advancement procedures.
-Make specific wage changes in areas that do not comply.
-Apply performance reviews more fairly when allocating bonuses.
+- Standardize pay bands and carrying out of internal pay audits regularly.
+- Encourage more inclusive hiring and advancement procedures.
+- Make specific wage changes in areas that do not comply.
+- Apply performance reviews more fairly when allocating bonuses.
 
 
